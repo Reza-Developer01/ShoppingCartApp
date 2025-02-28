@@ -6,7 +6,7 @@ A Shopping Cart Application With React Js
 ![16](https://github.com/Reza-Developer01/ShoppingCartApp/blob/main/17.png)
 ![16](https://github.com/Reza-Developer01/ShoppingCartApp/blob/main/18.png)
 
-- ✨ [Demo Project](https://crypto-app-ten-tan.vercel.app/)
+- ✨ [Demo Project](https://shopping-cart-app-sooty-zeta.vercel.app/)
 
 - 👨‍💻 Developed by Reza Rashvand
 
